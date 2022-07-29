@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rjshrivastav
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Deep Learning techniques.
-- 💞️ I’m looking to collaborate on ML projects.
+- 👀 Exploring Data Science.
+- 🌱 I’m currently working as a Machine Learning Engineer.
+- 💞️ I’m looking to collaborate on ML, DL or object detection projects.
 - 📫 You can reach me by email: shrivastavranjeet.rj@gmail.com
 
 <!---
